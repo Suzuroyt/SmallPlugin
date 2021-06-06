@@ -5,7 +5,9 @@ https://github.com/einfachNico/SmallPlugin/archive/refs/heads/main.zip
 
 - Video: https://youtu.be/WQxU3prBipk
 
-Kann du hier auf der Page :)
+Hier Kommst du zu der Spigot Page
+https://www.spigotmc.org/resources/smallplugin.93074/
+
 
 **German**
 
