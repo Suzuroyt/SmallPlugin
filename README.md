@@ -8,6 +8,18 @@ https://github.com/einfachNico/SmallPlugin/archive/refs/heads/main.zip
 Hier Kommst du zu der Spigot Page
 https://www.spigotmc.org/resources/smallplugin.93074/
 
+The Item in your Hotbar:
+https://ibb.co/Wc21rFV
+
+The Gui:
+https://ibb.co/TRMPTLg
+
+All Boots in Action:
+https://ibb.co/1TPQgwH
+https://ibb.co/yRM5GkK
+https://ibb.co/S5bpKc2
+https://ibb.co/hg48mJF
+
 
 **German**
 
