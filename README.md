@@ -3,6 +3,8 @@
 - Download Jar:
 https://github.com/einfachNico/SmallPlugin/archive/refs/heads/main.zip
 
+- Video: Soon
+
 Kann du hier auf der Page :)
 
 **German**
